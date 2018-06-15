@@ -14,7 +14,7 @@ simple login written in php
  
  # What should I change?
 
-<h2>Login-Password</h2>:
+<h2>Login-Password :</h2>
 <ul>
   <li><code>$password="hello";</code></li>
   Change with anoter password:
