@@ -18,6 +18,7 @@ simple login written in php
 <ul>
   <li><code>$password="hello";</code></li>
   Change with anoter password:
+  <li><code>$password="ServerCom@plicate_p4$$word";</code></li>
 </ul>
 
 
