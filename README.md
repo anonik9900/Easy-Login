@@ -38,10 +38,10 @@ simple login written in php
  <ul>
   <li>Add this code into your Protecter page (html)</li>
   <li>
-    <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post">
-          &lt;input type="hidden" name="logout" value="esci"/>
-          &lt;input type="submit" value="Logout"/>
-          &lt;/form>
+    <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post"> <br>
+          &lt;input type="hidden" name="logout" value="esci"/> <br>
+          &lt;input type="submit" value="Logout"/> <br>
+          &lt;/form> <br>
     </code>
   </li>
   </ul>
