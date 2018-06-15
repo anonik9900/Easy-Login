@@ -39,7 +39,7 @@ simple login written in php
   <li>Add this code into your Protecter page (html)</li>
   <li>
     <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post"> </code><br>
-  <li><code>&lt;input type="hidden" name="logout" value="esci"/> </code><br> </li>
+    <code>&lt;input type="hidden" name="logout" value="esci"/> </code><br>
     <code>&lt;input type="submit" value="Logout"/>  </code><br>
     <code>&lt;/form> </code>
   </li>
