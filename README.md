@@ -40,7 +40,7 @@ simple login written in php
   <li>
     <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post"> </code><br>
     <code>&lt;input type="hidden" name="logout" value="esci"/> </code><br> 
-    <code>&lt;input type="submit" value="Logout"/>  </code>
+    <code>&lt;input type="submit" value="Logout"/>  </code><br>
     <code>&lt;/form> </code>
   </li>
   </ul>
