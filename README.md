@@ -36,7 +36,7 @@ simple login written in php
  <p>After your session is complete you need a Logout function to disconnect your account.</p>
  <br>
  <ul>
-  <li>Add this code into your Protecter page (html)</li>
+  <li>Add this code into your Protected page (html)</li>
   <li>
     <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post"> </code><br>
     <code>&lt;input type="hidden" name="logout" value="esci"/> </code><br>
