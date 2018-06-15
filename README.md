@@ -21,4 +21,31 @@ simple login written in php
   <li><code>$password="ServerCom@plicate_p4$$word";</code></li>
 </ul>
 
+<hr>
+
+<h2>Protected page Path :</h2>
+<ul>
+  <li><code>header("Location: page.php");</code></li>
+  Change with for example your Admin Page:
+  <li><code>header("Location: pannel/admin.html");</code></li>
+ </ul>
+ 
+ <hr>
+ 
+ <h2>Logout-Function :</h2>
+ <p>After your session is complete you need a Logout function to disconnect your account.</p>
+ <br>
+ <ul>
+  <li>Add this code into your Protecter page (html)</li>
+  <li>
+    <code>&lt;form name="logout" action="your-login-page-path/login.php" method="post">
+          &lt;input type="hidden" name="logout" value="esci"/>
+          &lt;input type="submit" value="Logout"/>
+          &lt;/form>
+    </code>
+  </li>
+  </ul>
+
+
+
 
